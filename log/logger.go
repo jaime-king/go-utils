@@ -1,10 +1,10 @@
 package log
 
 import (
+	"go-utils/env"
 	"io"
 	"os"
 
-	"github.com/jaime-king/go-utils/env"
 	"github.com/sirupsen/logrus"
 )
 
