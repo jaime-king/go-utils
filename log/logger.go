@@ -1,7 +1,7 @@
 package log
 
 import (
-	"go-utils/env"
+	"github.com/jaime-king/go-utils/env"
 	"io"
 	"os"
 
